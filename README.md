@@ -1,1 +1,1 @@
-# Business-Case-Scenario-Using-SQL
+# Business Case Scenario Using SQL
